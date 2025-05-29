@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class DeepFirstSearch {
+public class DepthFirstSearch {
     static Map<String, List<String>> graph = new HashMap<>();
     static Set<String> visited = new HashSet<>();
 
